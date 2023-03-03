@@ -383,6 +383,14 @@
 		    <artifactId>hibernate-validator-annotation-processor</artifactId>
 		    <version>${hibernate-version}</version>
 		</dependency>
+		
+		<!-- google material -->
+		<dependency>
+		    <groupId>org.webjars</groupId>
+		    <artifactId>material-design-icons</artifactId>
+		    <version>4.0.0</version>
+		</dependency>
+			
 	</dependencies>
 	
     <build>
